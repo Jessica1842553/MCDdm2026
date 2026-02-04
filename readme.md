@@ -5,3 +5,4 @@
 Repositorio para la matería Datos Masivos.
 
 - [Tarea 1](Tarea1_DM.ipynb)
+- [Tarea 2](Tarea2_DM.ipynb)
